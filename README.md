@@ -1,2 +1,2 @@
-[!NOTE]
-Vite + React to make invoices
+>[!NOTE]
+>Vite + React to make invoices
